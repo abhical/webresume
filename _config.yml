@@ -1,10 +1,10 @@
 # Site
-repository: sproogen/resume-theme
+repository: abhical/webresume
 favicon: images/favicon.ico
 
 # Personal info
 name: Abhishek Pandey
-title: Web Developer and Software Quality Analsyt
+title: Web Developer and Software Quality Assurance Engineer
 email: abhi.shivam0930@gmail.com
 website: coming soon
 
@@ -14,20 +14,21 @@ github_username:  abhical
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: abhishek.__pandey
-linkedin_username: abhishek.__.pandey
+instagram_username: abhishek.__.pandey
+linkedin_username: abhishek-pandey-63287810a/
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Abhishek and I'm a Web Developer and Software Quality Analyst. I'm proficient at implementing data structures,writing memory efficient code and minimizing run time complexity ,working in C++ and JAVA and have excellent written, communication as well as presentation skills.
-Experienced at working as a team and learning effectively. 
-
-  I am most skilled in: <mark>Crossfit</mark> and <mark>Gymnastic</mark>
+  Hi, my name is Abhishek and I'm a Web Developer and Software Quality Assurance Engineer. I am very passionate about building things which solves some genuine problems, a self taught developer who loves to explore new things, 
+  I have good understanding of data structure and algorithm, SQL, Software Development and testing. Working in C++ and JAVASCRIPT and have excellent written, communication as well as presentation skills. 
+  Experienced at working as a team and learning effectively.
+  <br/>
+   I am also skilled in: <mark>Crossfit</mark> and <mark>Gymnastic</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -41,11 +42,11 @@ Experienced at working as a team and learning effectively.
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my interests in software engineering some of my other interests and hobbies are:
+   - Crossfit
+   - Gymnastic
+   - Reading
+   - Football
 
 # Footer
 footer_show_references: true
